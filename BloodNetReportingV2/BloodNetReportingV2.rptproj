@@ -7,27 +7,40 @@
       <FullPath>BloodNetReportingV2.rds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSets />
-  <Reports>
+  <DataSets>
     <ProjectItem>
-      <Name>Fresh Component Data Extract.rdl</Name>
-      <FullPath>Fresh Component Data Extract.rdl</FullPath>
+      <Name>Facility.rsd</Name>
+      <FullPath>Facility.rsd</FullPath>
     </ProjectItem>
+  </DataSets>
+  <Reports>
     <ProjectItem>
       <Name>Fresh Component Daily Summary.rdl</Name>
       <FullPath>Fresh Component Daily Summary.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Fresh Components All Ordered.rdl</Name>
-      <FullPath>Fresh Components All Ordered.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Fresh Component Daily SummaryOLD.rdl</Name>
       <FullPath>Fresh Component Daily SummaryOLD.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>Fresh Component Data Extract.rdl</Name>
+      <FullPath>Fresh Component Data Extract.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Fresh Component Month Summary.rdl</Name>
       <FullPath>Fresh Component Month Summary.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Fresh Components All Ordered.rdl</Name>
+      <FullPath>Fresh Components All Ordered.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Fresh Components All Ordered New.rdl</Name>
+      <FullPath>Fresh Components All Ordered New.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Component Discards.rdl</Name>
+      <FullPath>Component Discards.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>

@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BloodNetReportingV2">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=SSLT001\SQL2008;Initial Catalog=BloodnetReportingV2</ConnectString>
+    <ConnectString>Data Source=.\;Initial Catalog=BloodnetReportingV2</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>f3340bd5-8333-4804-87ae-7d72e1122a43</DataSourceID>
