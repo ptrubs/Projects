@@ -22,14 +22,6 @@
       <Name>Discards.rdl</Name>
       <FullPath>Discards.rdl</FullPath>
     </ProjectItem>
-    <ProjectItem>
-      <Name>Fresh Component Month Summary.rdl</Name>
-      <FullPath>Fresh Component Month Summary.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Fresh Component Data Extract.rdl</Name>
-      <FullPath>Fresh Component Data Extract.rdl</FullPath>
-    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
